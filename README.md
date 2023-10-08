@@ -4,8 +4,7 @@ This repository presents a collection of projects from the Upwork platform.
 
 ## Projects
 
-- [Avalanche Report Scraper](project1/README.md)
-- [Project 2](project2/README.md)
+- [Avalanche Report Scraper](https://github.com/z-kahraman/upwork/tree/main/13-Avalanche%20Report%20Scraper)
 
 Each project folder contains a separate README file that provides specific details and descriptions of the project.
 
@@ -25,7 +24,7 @@ This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE
 
 Feel free to use the following contact information for any questions, feedback, or collaboration offers:
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Upwork: [Zafer K.](https://www.upwork.com/freelancers/~01004eda3bbfa6e4cc)
 
 ## Acknowledgments
 
