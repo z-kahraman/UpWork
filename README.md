@@ -4,7 +4,7 @@ This repository presents a collection of projects from the Upwork platform.
 
 ## Projects
 
-- [Avalanche Report Scraper]("13-Avalanche Report Scraper/README.md")
+- [Avalanche Report Scraper](https://github.com/z-kahraman/upwork/tree/main/13-Avalanche%20Report%20Scraper)
 
 Each project folder contains a separate README file that provides specific details and descriptions of the project.
 
