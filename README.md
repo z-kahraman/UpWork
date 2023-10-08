@@ -24,7 +24,7 @@ This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE
 
 Feel free to use the following contact information for any questions, feedback, or collaboration offers:
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Upwork: [Zafer K.](https://www.upwork.com/freelancers/~01004eda3bbfa6e4cc)
 
 ## Acknowledgments
 
